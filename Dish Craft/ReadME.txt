@@ -9,7 +9,7 @@ The project includes an engaging user interface and a well-designed landing page
 Admin Access:
 
 Admin access is available with the following credentials:
-Username: rithin
+Username: purna
 Password: 12345
 
 Username: user
